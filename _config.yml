@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://sarahswade.github.io
+title: Brazenly Ordinary
+tagline: A collection of thoughts on ordinary things
+description: If you want to read something, you can read this. 
+paginate: 5
